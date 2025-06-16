@@ -52,9 +52,6 @@ def complete_order():
         messagebox.showwarning("Предупреждение", "Выберите заказ для завершения")
 
 
-
-
-
 app = tk.Tk()
 app.title ("Система управления заказами")
 
